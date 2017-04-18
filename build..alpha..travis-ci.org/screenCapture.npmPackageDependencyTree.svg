@@ -1,0 +1,26 @@
+<svg height="366" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="366" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">9 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ grunt-replace@1.0.1 </tspan>
+<tspan x="10" y="90">  ├─┬ applause@1.2.2 </tspan>
+<tspan x="10" y="106">  │ ├─┬ cson-parser@1.3.5 </tspan>
+<tspan x="10" y="122">  │ │ └── coffee-script@1.12.5 </tspan>
+<tspan x="10" y="138">  │ ├─┬ js-yaml@3.8.3 </tspan>
+<tspan x="10" y="154">  │ │ ├─┬ argparse@1.0.9 </tspan>
+<tspan x="10" y="170">  │ │ │ └── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="186">  │ │ └── esprima@3.1.3 </tspan>
+<tspan x="10" y="202">  │ └── lodash@3.10.1 </tspan>
+<tspan x="10" y="218">  ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="234">  │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="250">  │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="266">  │ ├─┬ has-ansi@2.0.0 </tspan>
+<tspan x="10" y="282">  │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="298">  │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="314">  │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="330">  ├── file-sync-cmp@0.1.1 </tspan>
+<tspan x="10" y="346">  └── lodash@4.17.4</tspan>
+</text>
+</svg>
