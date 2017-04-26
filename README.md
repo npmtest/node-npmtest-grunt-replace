@@ -1,4 +1,7 @@
-# test coverage for  [grunt-replace (v1.0.1)](https://github.com/outatime/grunt-replace#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-replace.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-replace) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-replace.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-replace)
+# npmtest-grunt-replace
+
+#### basic test coverage for  [grunt-replace (v1.0.1)](https://github.com/outatime/grunt-replace#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-replace.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-replace) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-replace.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-replace)
+
 #### Replace text patterns with applause.
 
 [![NPM](https://nodei.co/npm/grunt-replace.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-replace)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-replace/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-replace/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-replace/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-replace/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-replace/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-replace/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-replace/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-replace/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-replace/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-replace/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-replace/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-replace/build/coverage.html/index.html)
 
@@ -118,7 +121,8 @@
         "release": "scripts/release.sh",
         "test": "grunt test"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
